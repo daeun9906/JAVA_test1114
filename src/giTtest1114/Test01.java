@@ -7,5 +7,7 @@ public class Test01 {
 	// Git - Git repositories, Git Staging
 	
 	int a = 10;
+	
+	String test3 = "3번 연습";
 
 }
