@@ -5,5 +5,7 @@ public class Test01 {
 	
 	// window - show view - other - 
 	// Git - Git repositories, Git Staging
+	
+	int a = 10;
 
 }
